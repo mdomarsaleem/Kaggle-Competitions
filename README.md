@@ -1,4 +1,4 @@
-# ROSSMAN
+# Kaggle-Rossman
 Kaggle Rossman sales prediction
 
 This repo is list of experimentation done and models build for kaggle rossmann-store-sales competition:
